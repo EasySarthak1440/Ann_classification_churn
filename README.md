@@ -14,23 +14,7 @@ The app takes customer details as input, applies preprocessing (label encoding, 
 
 ---
 
-## Project Structure
 
-```
-
-Ann_classification_churn/
-│── app.py
-│── model.h5
-│── label_encoder_gender.pkl
-│── onehot_encoder_geo.pkl
-│── scaler.pkl
-│── Churn_Modelling.csv
-│── experiments.ipynb
-│── prediction.ipynb
-│── requirements.txt
-│── LICENSE
-
-````
 
 ### File Description
 
