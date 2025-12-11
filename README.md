@@ -1,10 +1,8 @@
 
-```markdown
 # ANN Customer Churn Prediction
 
 **Repository:** `Ann_classification_churn` by EasySarthak1440
 
----
 
 ## Overview
 
@@ -28,7 +26,6 @@ The app takes customer details as input, applies preprocessing (label encoding, 
 - **`prediction.ipynb`** – Model testing notebook  
 - **`requirements.txt`** – Python dependencies  
 
----
 
 ## Installation
 
